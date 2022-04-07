@@ -28,13 +28,13 @@
 
 > User Story 2
 
-![Abfahrtstafel](C:\Work\M318\Projektarbeit\docs\assets\Mockup_UserStory2.png)
+![Abfahrtstafel](assets/Mockup_UserStory2.png)
 
 ### Verbindungssuche
 
 > User Story 1
 
-![Verbindungssuche](C:\Work\M318\Projektarbeit\docs\assets\Mockup_UserStory1.png)
+![Verbindungssuche](assets/Mockup_UserStory1.png)
 
 
 
