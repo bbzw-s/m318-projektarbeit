@@ -2,8 +2,6 @@
 
 - [Dokumentation](#dokumentation)
   - [User Stories](#user-stories)
-    - [Höchste Priorität](#höchste-priorität)
-      - [Abnahmekriterien](#abnahmekriterien)
 
 ## User Stories
 
